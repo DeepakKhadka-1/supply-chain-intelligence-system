@@ -91,7 +91,7 @@ supply-chain-intelligence/
 - Output → cleaned dataset  
 
 ### 2. SQL
-- Execute `final_analysis.sql`  
+- Execute `Analysis.sql`  
 - Generate KPIs and insights  
 
 ### 3. Power BI
