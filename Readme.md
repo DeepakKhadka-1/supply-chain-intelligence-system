@@ -66,7 +66,7 @@ supply-chain-intelligence/
 │ └── eda_feature_engineering.ipynb
 │
 ├── sql/ # SQL analysis queries
-│ └── final_analysis.sql
+│ └── Analysis.sql
 │
 ├── dashboard/ # Power BI dashboard file
 │ └── Supply_Chain_Intelligence.pbix
