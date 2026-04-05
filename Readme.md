@@ -58,23 +58,23 @@ Built a complete analytics pipeline using:
 
 supply-chain-intelligence/
 │
-├── data/
+├── data/ # Raw and processed datasets
 │ ├── raw/
-│ ├── processed/
+│ └── processed/
 │
-├── notebooks/
+├── notebooks/ # Python EDA & feature engineering
 │ └── eda_feature_engineering.ipynb
 │
-├── sql/
-│ └── Analysis.sql
+├── sql/ # SQL analysis queries
+│ └── final_analysis.sql
 │
-├── dashboard/
+├── dashboard/ # Power BI dashboard file
 │ └── Supply_Chain_Intelligence.pbix
 │
-├── images/
+├── images/ # Dashboard screenshots
 │ └── dashboard_preview.png
 │
-├── README.md
+├── README.md # Project documentation
 
 
 ---
